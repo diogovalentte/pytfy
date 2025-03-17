@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "pytfy"
 version = "0.0.2"
 authors = [
-  { name="Diogo Valentim", email="diogovalentte10@gmail.com" },
+  { name="Diogo Valentim", email="diogo@valentium.com.br" },
 ]
 description = "A simple client to wrap the Ntfy API"
 readme = "README.md"
