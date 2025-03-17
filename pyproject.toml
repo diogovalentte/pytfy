@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pytfy"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Diogo Valentim", email="diogovalentte10@gmail.com" },
 ]
@@ -16,7 +16,7 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 dependencies = [
-  "requests==2.31.0"
+  "requests==2.32.3"
 ]
 
 [project.urls]
